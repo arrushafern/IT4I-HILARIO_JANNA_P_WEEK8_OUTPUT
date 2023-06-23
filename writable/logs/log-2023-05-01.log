@@ -1,0 +1,72 @@
+CRITICAL - 2023-05-01 13:34:16 --> Array to string conversion
+in APPPATH\Controllers\GetRoutes.php on line 35.
+ 1 APPPATH\Controllers\GetRoutes.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\IT4I-HILARIO_JANNA_P\\app\\Controllers\\GetRoutes.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\GetRoutes->displayZipcodeAndMunicipality([...])
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GetRoutes))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\IT4I-HILARIO_JANNA_P\\public\\index.php')
+CRITICAL - 2023-05-01 13:41:15 --> Array to string conversion
+in APPPATH\Controllers\GetRoutes.php on line 35.
+ 1 APPPATH\Controllers\GetRoutes.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\IT4I-HILARIO_JANNA_P\\app\\Controllers\\GetRoutes.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\GetRoutes->displayZipcodeAndMunicipality([...])
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GetRoutes))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\IT4I-HILARIO_JANNA_P\\public\\index.php')
+CRITICAL - 2023-05-01 14:36:39 --> Undefined variable $array
+in APPPATH\Controllers\GetRoutes.php on line 35.
+ 1 APPPATH\Controllers\GetRoutes.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $array', 'C:\\xampp\\htdocs\\IT4I-HILARIO_JANNA_P\\app\\Controllers\\GetRoutes.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\GetRoutes->displayZipcodeAndMunicipality([...])
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GetRoutes))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\IT4I-HILARIO_JANNA_P\\public\\index.php')
+CRITICAL - 2023-05-01 14:37:19 --> Undefined variable $array
+in APPPATH\Controllers\GetRoutes.php on line 35.
+ 1 APPPATH\Controllers\GetRoutes.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $array', 'C:\\xampp\\htdocs\\IT4I-HILARIO_JANNA_P\\app\\Controllers\\GetRoutes.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\GetRoutes->displayZipcodeAndMunicipality([...])
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GetRoutes))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\IT4I-HILARIO_JANNA_P\\public\\index.php')
+CRITICAL - 2023-05-01 15:43:18 --> Undefined array key 4123
+in APPPATH\Controllers\GetRoutes.php on line 35.
+ 1 APPPATH\Controllers\GetRoutes.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 4123', 'C:\\xampp\\htdocs\\IT4I-HILARIO_JANNA_P\\app\\Controllers\\GetRoutes.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\GetRoutes->displayZipcodeAndMunicipality([...])
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GetRoutes))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\IT4I-HILARIO_JANNA_P\\public\\index.php')
+CRITICAL - 2023-05-01 15:43:18 --> Undefined array key 4123
+in APPPATH\Controllers\GetRoutes.php on line 35.
+ 1 APPPATH\Controllers\GetRoutes.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 4123', 'C:\\xampp\\htdocs\\IT4I-HILARIO_JANNA_P\\app\\Controllers\\GetRoutes.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\GetRoutes->displayZipcodeAndMunicipality([...])
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GetRoutes))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\IT4I-HILARIO_JANNA_P\\public\\index.php')
+CRITICAL - 2023-05-01 15:59:04 --> array_search(): Argument #2 ($haystack) must be of type array, int given
+in APPPATH\Controllers\GetRoutes.php on line 36.
+ 1 APPPATH\Controllers\GetRoutes.php(36): array_search(4123, 4123)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\GetRoutes->displayZipcodeAndMunicipality(4123)
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GetRoutes))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\IT4I-HILARIO_JANNA_P\\public\\index.php')
+CRITICAL - 2023-05-01 16:20:28 --> in_array() expects at least 2 arguments, 1 given
+in APPPATH\Controllers\GetRoutes.php on line 35.
+ 1 APPPATH\Controllers\GetRoutes.php(35): in_array('red')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\GetRoutes->displayZipcodeAndMunicipality([...])
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GetRoutes))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\IT4I-HILARIO_JANNA_P\\public\\index.php')
+CRITICAL - 2023-05-01 16:33:34 --> Undefined variable $value
+in APPPATH\Controllers\GetRoutes.php on line 35.
+ 1 APPPATH\Controllers\GetRoutes.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $value', 'C:\\xampp\\htdocs\\IT4I-HILARIO_JANNA_P\\app\\Controllers\\GetRoutes.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\GetRoutes->displayZipcodeAndMunicipality([...])
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GetRoutes))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\IT4I-HILARIO_JANNA_P\\public\\index.php')

@@ -1,0 +1,51 @@
+CRITICAL - 2023-05-27 02:43:30 --> Undefined property: App\Controllers\Gmap::$load
+in APPPATH\Controllers\Gmap.php on line 9.
+ 1 APPPATH\Controllers\Gmap.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Gmap::$load', 'C:\\xampp\\htdocs\\IT4I-HILARIO_JANNA_P\\app\\Controllers\\Gmap.php', 9)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Gmap->viewGmap()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gmap))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\IT4I-HILARIO_JANNA_P\\public\\index.php')
+CRITICAL - 2023-05-27 02:45:52 --> Undefined property: App\Controllers\Gmap::$load
+in APPPATH\Controllers\Gmap.php on line 9.
+ 1 APPPATH\Controllers\Gmap.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Gmap::$load', 'C:\\xampp\\htdocs\\IT4I-HILARIO_JANNA_P\\app\\Controllers\\Gmap.php', 9)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Gmap->viewGmap()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gmap))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\IT4I-HILARIO_JANNA_P\\public\\index.php')
+CRITICAL - 2023-05-27 02:58:38 --> Undefined property: App\Controllers\Gmap::$load
+in APPPATH\Controllers\Gmap.php on line 9.
+ 1 APPPATH\Controllers\Gmap.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Gmap::$load', 'C:\\xampp\\htdocs\\IT4I-HILARIO_JANNA_P\\app\\Controllers\\Gmap.php', 9)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Gmap->viewGmap()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gmap))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\IT4I-HILARIO_JANNA_P\\public\\index.php')
+CRITICAL - 2023-05-27 02:59:27 --> Undefined property: App\Controllers\Gmap::$load
+in APPPATH\Controllers\Gmap.php on line 9.
+ 1 APPPATH\Controllers\Gmap.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Gmap::$load', 'C:\\xampp\\htdocs\\IT4I-HILARIO_JANNA_P\\app\\Controllers\\Gmap.php', 9)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Gmap->viewGmap()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gmap))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\IT4I-HILARIO_JANNA_P\\public\\index.php')
+CRITICAL - 2023-05-27 03:00:50 --> Undefined property: App\Controllers\Gmap::$load
+in APPPATH\Controllers\Gmap.php on line 9.
+ 1 APPPATH\Controllers\Gmap.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Gmap::$load', 'C:\\xampp\\htdocs\\IT4I-HILARIO_JANNA_P\\app\\Controllers\\Gmap.php', 9)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Gmap->viewGooglemap()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Gmap))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\IT4I-HILARIO_JANNA_P\\public\\index.php')
+CRITICAL - 2023-05-27 03:08:36 --> Class "CI_Controller" not found
+in APPPATH\Controllers\Gmap.php on line 4.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(312): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\IT4I-HILARIO_JANNA_P\\app\\Controllers\\Gmap.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Gmap')
+ 4 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Gmap')
+ 5 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\Gmap', true)
+ 6 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\IT4I-HILARIO_JANNA_P\\public\\index.php')

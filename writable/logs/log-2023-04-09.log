@@ -1,0 +1,8 @@
+CRITICAL - 2023-04-09 05:35:35 --> Undefined variable $COLOR
+in APPPATH\Controllers\Student.php on line 11.
+ 1 APPPATH\Controllers\Student.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $COLOR', 'C:\\xampp\\htdocs\\IT4I-HilarioJannaP\\app\\Controllers\\Student.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Student->studentList()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Student))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\IT4I-HilarioJannaP\\public\\index.php')
